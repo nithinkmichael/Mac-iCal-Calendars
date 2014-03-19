@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iCal Calendars' target in the 'iCal Calendars' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

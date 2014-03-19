@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = C930968C08C3547800BEDF5B /* iCal Calendars */;
+		activeTarget = 8D1107260486CEB800E47090 /* iCal Calendars */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* iCal Calendars */,
+		);
+		codeSenseManager = C93096B608C3549800BEDF5B /* Code sense */;
+		executables = (
+			C930968C08C3547800BEDF5B /* iCal Calendars */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 147018872;
+			PBXWorkspaceStateSaveDate = 147018872;
+		};
+		sourceControlManager = C93096B508C3549800BEDF5B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* iCal Calendars */ = {
+		activeExec = 0;
+		executables = (
+			C930968C08C3547800BEDF5B /* iCal Calendars */,
+		);
+	};
+	C930968C08C3547800BEDF5B /* iCal Calendars */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "iCal Calendars";
+		sourceDirectories = (
+		);
+	};
+	C93096AA08C3549700BEDF5B /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 672}}";
+			sepNavSelRange = "{346, 0}";
+			sepNavVisRect = "{{0, 0}, {824, 672}}";
+			sepNavWindowFrame = "{{15, 35}, {869, 792}}";
+		};
+	};
+	C93096AB08C3549700BEDF5B /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 1386}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRect = "{{0, 0}, {824, 672}}";
+			sepNavWindowFrame = "{{15, 35}, {869, 792}}";
+		};
+	};
+	C93096B508C3549800BEDF5B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	C93096B608C3549800BEDF5B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C93096BC08C354D300BEDF5B /* Calendar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 1414}}";
+			sepNavSelRange = "{771, 0}";
+			sepNavVisRect = "{{0, 0}, {824, 672}}";
+			sepNavWindowFrame = "{{38, 14}, {869, 792}}";
+		};
+	};
+}
